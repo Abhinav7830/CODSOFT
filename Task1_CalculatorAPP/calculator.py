@@ -1,6 +1,6 @@
 import flet 
 from flet import *
-
+ 
 def main(page:Page):
     #! Arithmetic functions
 
