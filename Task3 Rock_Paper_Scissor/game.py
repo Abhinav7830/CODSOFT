@@ -24,6 +24,7 @@ def main(page:ft.Page):
     page.window_resizable = False
     page.padding=40
     
+    global computer_score,user_score
     computer_score = 0
     user_score = 0
 
